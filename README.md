@@ -7,4 +7,4 @@
 ![image](https://github.com/UItraman/spider/raw/master/screenshots/02.png)
 ![image](https://github.com/UItraman/spider/raw/master/screenshots/03.png)
 
-左边为相对路径，右边是新闻标题
+（左边为相对路径，右边是新闻标题）
