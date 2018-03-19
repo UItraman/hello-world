@@ -6,5 +6,5 @@
 ![image](https://github.com/UItraman/spider/raw/master/screenshots/01.png)
 ![image](https://github.com/UItraman/spider/raw/master/screenshots/02.png)
 ![image](https://github.com/UItraman/spider/raw/master/screenshots/03.png)
-（这都是什么大头鬼）
+
 （左边为相对路径，右边是新闻标题）
